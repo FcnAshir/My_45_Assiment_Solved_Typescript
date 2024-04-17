@@ -1,0 +1,6 @@
+{
+  "description": "",
+  "dependencies": {
+    "@types/code": "^4.0.8"
+  }
+}
